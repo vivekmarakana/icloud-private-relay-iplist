@@ -16,7 +16,6 @@ This repository aims to provide an up-to-date and automatically generated (from 
 
 The repository is organized as follows:
 
-
 - **ip-ranges.ipset**: IP address list in `ipset` format containing both IPv4 and IPv6 addresses.
 - **ip-ranges.json**: IP address list in JSON format containing both IPv4 and IPv6 addresses.
 - **ip-ranges.txt**: IP address list in plain text format containing both IPv4 and IPv6 addresses.
